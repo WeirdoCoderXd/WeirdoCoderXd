@@ -1,6 +1,32 @@
-# WeirdoCoderXd - Full Stack Dev | Python Enthusiast
+<div align="center">
 
-### Skills & Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=PomPomPurin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20" alt="PomPomPurin banner" />
+
+<a href="https://github.com/PomPomPurin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=520&lines=Hi!+I'm+PomPomPurin+%F0%9F%91%8B;Full+Stack+Developer;I+love+Python+and+clean+code;Building+web+and+mobile+apps" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PomPomPurin&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/PomPomPurin?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="Followers" />
+<img src="https://img.shields.io/github/stars/PomPomPurin?label=Stars&style=for-the-badge&logo=github&color=f7b731" alt="Stars" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on full-stack projects
+- 🐍 Python is my main language
+- 📱 Building mobile apps with React Native
+- 🌱 Always learning and trying new things
+- 📫 Reach me through GitHub
+
+---
+
+## 🛠 Skills & Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
@@ -20,12 +46,31 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeirdoCoderXd&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeirdoCoderXd&layout=compact&theme=dark" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PomPomPurin&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomPomPurin&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PomPomPurin&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-*Thanks for stopping by! Stay tuned for more.*
+---
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PomPomPurin&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! More projects coming soon* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" alt="footer" />
+
+</div>
