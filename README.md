@@ -62,7 +62,16 @@
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PomPomPurin&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/f7b731/PomPomPurin" alt="Contribution Chart" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PomPomPurin/PomPomPurin/output/snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/PomPomPurin/PomPomPurin/output/snake.svg" />
+  </picture>
 </div>
 
 ---
