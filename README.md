@@ -87,8 +87,8 @@
 ## 💌 Contact
 
 <div align="center">
-  <a href="https://t.me/YOUR_NICK"><img src="https://img.shields.io/badge/-Telegram-FF8FB1?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
-  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/-Discord-FFA3BF?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
+  <a href="https://t.me/no"><img src="https://img.shields.io/badge/-Telegram-FF8FB1?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://discord.com/users/no"><img src="https://img.shields.io/badge/-Discord-FFA3BF?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-FF8FB1?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </div>
 
